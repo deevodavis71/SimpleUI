@@ -7,10 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleUI", "SimpleUI\Simple
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Build|Any CPU = Build|Any CPU
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A2DC1A-EE19-4F48-A675-4CC74E353BAC}.Build|Any CPU.ActiveCfg = Build|Any CPU
+		{B3A2DC1A-EE19-4F48-A675-4CC74E353BAC}.Build|Any CPU.Build.0 = Build|Any CPU
 		{B3A2DC1A-EE19-4F48-A675-4CC74E353BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B3A2DC1A-EE19-4F48-A675-4CC74E353BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3A2DC1A-EE19-4F48-A675-4CC74E353BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
